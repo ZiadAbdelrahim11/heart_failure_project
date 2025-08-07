@@ -25,7 +25,7 @@ This project uses a machine learning model to predict mortality events based on 
 
 | Type            | Link                                                                 |
 |-----------------|----------------------------------------------------------------------|
-| 🔗 Hugging Face | [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/ZiadAbdelrahim/heart-failure-predictor) |
+| 🔗 Hugging Face | [Live Demo on Hugging Face Spaces](https://huggingface.co/spaces/ZiadAbdelrahim/heart-failure) |
 | 🖥️ Presentation | [Project Slides](https://your-presentation-link.com)                |
 
 ## 🧠 Model Details
@@ -33,3 +33,4 @@ This project uses a machine learning model to predict mortality events based on 
 - **Input features**: Age, Anaemia, High blood pressure, Creatinine phosphokinase, Ejection fraction, Platelets, Serum creatinine, Serum sodium, Sex, Smoking
 - **Output**: 0 = Alive, 1 = Death
 - **Dataset**: [Heart Failure Clinical Records Dataset - Kaggle/UCI](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data)
+
